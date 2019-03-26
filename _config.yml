@@ -17,8 +17,7 @@ favicon: favicon.ico
 
 repository: zhengx/zhengx.github.io
 github_url: https://github.com/zhengx
-url: https://zhengxin.github.io
-enforce_ssl: zhengxin.com
+url: https://zhengx.github.io
 
 ## Gem
 plugins:
